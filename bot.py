@@ -10,9 +10,9 @@ from telegram.ext import (
 from twilio.rest import Client
 
 # ====== CONFIG ======
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = 123456789
-CHANNEL_USERNAME = "@yourchannel"
+BOT_TOKEN = "8497523050:AAG7ECVM7l8s9LCoCqwv72DSXAdLG0fmgow"
+ADMIN_ID = 8334124528
+CHANNEL_USERNAME = "@piyush_a2z_tricks"
 
 TWILIO_SID = "AC1a390f6d54487fd4ae87cb5a6b620602"
 TWILIO_AUTH = "9939c0009c4d86896252d9e5075ff992"
